@@ -1,0 +1,5 @@
+/.env
+
+/nginx/log/*
+
+!/nginx/log/.keep
